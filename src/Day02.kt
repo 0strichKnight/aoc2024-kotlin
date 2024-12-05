@@ -133,7 +133,6 @@ fun main() {
         return safeReports
     }
 
-    // Read the input from the `src/Day01.txt` file.
     val input = readInput("Day02")
     part1(input).println()
     part2(input).println()

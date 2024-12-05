@@ -177,7 +177,6 @@ fun main() {
         return mas
     }
 
-    // Read the input from the `src/Day01.txt` file.
     val input = readInput("Day04")
     part1(input).println()
     part2(input).println()
